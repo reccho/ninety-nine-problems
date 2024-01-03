@@ -9,6 +9,7 @@ This is my attempt to work through the famous 99 problems in different languages
 - [99 Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
     - [Haskell Library Quick Reference](https://ksvi.mff.cuni.cz/~dingle/2022-3/npp/haskell_library.html)
     - [Glasgow Haskell Compiler](https://www.haskell.org/ghc/)
+    - [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 - 99 Lisp Problems
 - [99 Scala Problems](https://aperiodic.net/phil/scala/s-99/)
 - [99 Java Problems](https://tech.tonyballantyne.com/java/99-java-problems/)
